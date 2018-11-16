@@ -1,0 +1,46 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Code+Pro:200,300);
+
+body {
+  font-family: 'Source Code Pro', Sans-Serif;
+  font-weight: 300;
+}
+
+a {
+  color: #0074D9;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  font-weight: 200;
+  font-size: 60px;
+}
+
+ul li {
+  margin: 5px 0;
+}
+ul li a.hash {
+  font-weight: normal;
+}
+ul li span.arrow {
+  margin: 0 10px;
+}
+ul li span.description {
+  color: #AAAAAA;
+  margin-left: 10px;
+}
+ul li input {
+  font-family: 'Source Code Pro', Sans-Serif;
+  font-weight: 300;
+  width: 400px;
+  margin-top: 5px;
+  padding: 2px;
+}
+
+footer p {
+  font-size: 13px;
+  margin: 0;
+  color: #AAAAAA;
+}
